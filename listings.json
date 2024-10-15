@@ -1,0 +1,27 @@
+[
+  {
+    "listing": "/test_2/index.html",
+    "items": [
+      "/test_2/posts/post-with-code/index.html",
+      "/test_2/posts/welcome/index.html"
+    ]
+  },
+  {
+    "listing": "/myblog/index.html",
+    "items": [
+      "/myblog/posts/post-with-code/index.html",
+      "/myblog/posts/welcome/index.html"
+    ]
+  },
+  {
+    "listing": "/index.html",
+    "items": [
+      "/myblog/posts/post-with-code/index.html",
+      "/posts/post-with-code/index.html",
+      "/test_2/posts/post-with-code/index.html",
+      "/myblog/posts/welcome/index.html",
+      "/posts/welcome/index.html",
+      "/test_2/posts/welcome/index.html"
+    ]
+  }
+]
